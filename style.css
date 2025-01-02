@@ -9,6 +9,7 @@
 
 body {
     background-color: antiquewhite;
+    overflow:scroll;
 }
 
 .brand img {
